@@ -18,7 +18,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/thanula2003/flask-api.git
-cd YOUR-REPOSITORY
+cd flask-api
 ```
 
 Activate the virtual environment:
@@ -92,6 +92,12 @@ The main purpose of this project is to understand the basics of:
 * SQLite
 
 You can use Postman, Thunder Client, or another API testing tool to test the endpoints.
+
+## Reference
+
+YouTube tutorial that helped me understand the concepts:
+
+https://youtu.be/z3YMz-Gocmw?si=r9P3mUxWIXwDLPwE
 
 ## License
 
